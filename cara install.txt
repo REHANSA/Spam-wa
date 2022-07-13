@@ -1,0 +1,14 @@
+copy satu2 ke termux tanpa tanda $
+$ termux-setup-storage
+$ apt upgrade
+$ apt update
+$ pkg update
+$ pkg upgrade
+$ pip install requests
+$ pip install bs4
+$ pip install keyboard
+$ pkg install neofetch
+$ pkg install curl
+$ pkg install python
+$ pkg install python2
+$ pkg install python3
